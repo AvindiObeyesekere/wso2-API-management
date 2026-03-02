@@ -11,8 +11,13 @@ https://localhost:9443/devportal/apis
 
 ### adding a new application
 <img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/c9b8afa9-1ab1-4282-b939-98a70d1e6473" />
+
 ### add subscription to newly added application
 <img width="1675" height="829" alt="image" src="https://github.com/user-attachments/assets/e2dd6901-02ad-4a74-a272-fdce3ca657ca" />
 
+### now navigate to top navbar : 1)Application 2)Select created Application 3)Production Keys 4)Generate Keys
 
+### test using Postman using API gateway
+
+<img width="1778" height="874" alt="image" src="https://github.com/user-attachments/assets/6efb676c-2186-4af4-8f31-82a3e3f42a5b" />
 
